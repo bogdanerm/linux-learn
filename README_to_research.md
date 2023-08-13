@@ -1,0 +1,4 @@
+shopt
+set
+typeset
+declare
