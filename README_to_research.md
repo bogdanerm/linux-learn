@@ -20,3 +20,11 @@ pstree -n                                   # what it does
 
 
 ps -o pid,uid,args afx
+
+
+
+
+
+
+
+# How to put child bash and parent bash in two different terminal windows
