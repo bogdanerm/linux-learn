@@ -14,3 +14,9 @@ pstree -n                                   # what it does
 
 
 # HOW TO SEE FIRST LEVEL OF HIERARCHY USING PS AND PSTREE
+
+
+
+
+
+ps -o pid,uid,args afx
