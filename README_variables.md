@@ -5,3 +5,4 @@ env
 declare -x        
 typeset -x        
 export -p          
+declare -p         # print local variables
